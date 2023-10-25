@@ -9,6 +9,8 @@
     <packaging>pom</packaging>
 
     <properties>
+         <sonar.organization>pietro-cpu</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <dbeaver-version>23.2.3</dbeaver-version>
         <dbeaver-product>DBeaver</dbeaver-product>
         <tycho-version>3.0.1</tycho-version>
